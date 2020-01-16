@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/MyCalculator/MyCalculator/obj/Debug
+/MyCalculator/MyCalculator.Tests/bin/Debug
+/MyCalculator/.vs/MyCalculator/v16
+/MyCalculator/MyCalculator.Tests/obj/Debug
